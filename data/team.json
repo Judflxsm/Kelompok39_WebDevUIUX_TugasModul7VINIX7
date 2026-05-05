@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "nama": "Jack Ferdinand",
+    "role": "Supervisor Logistik",
+    "avatar": "JF",
+    "bio": "Berpengalaman 10+ tahun di industri perkapalan dan manajemen logistik maritim. Memimpin pengembangan sistem tracking kapal generasi berikutnya.",
+    "keahlian": ["Supply Chain", "Fleet Management", "Port Operations"],
+    "kontak": "jack@shiplog.id"
+  },
+  {
+    "id": "2",
+    "nama": "Andi Pratama",
+    "role": "Admin Gudang",
+    "avatar": "AP",
+    "bio": "Spesialis manajemen inventaris dan optimasi alur barang masuk-keluar di dermaga. Mengembangkan sistem monitoring stok real-time ShipLog.",
+    "keahlian": ["Inventory Management", "Warehouse Ops", "Data Entry"],
+    "kontak": "andi@shiplog.id"
+  },
+  {
+    "id": "3",
+    "nama": "Sari Dewi",
+    "role": "Product Manager",
+    "avatar": "SD",
+    "bio": "Memimpin roadmap produk ShipLog dari riset pengguna hingga peluncuran fitur. Fokus pada UX yang intuitif untuk operator lapangan.",
+    "keahlian": ["Product Strategy", "UX Research", "Agile"],
+    "kontak": "sari@shiplog.id"
+  },
+  {
+    "id": "4",
+    "nama": "Rizky Hamdani",
+    "role": "Lead Engineer",
+    "avatar": "RH",
+    "bio": "Arsitek sistem backend ShipLog yang menangani data ribuan kapal secara real-time. Penggemar open-source dan sistem terdistribusi.",
+    "keahlian": ["Node.js", "PostgreSQL", "Microservices"],
+    "kontak": "rizky@shiplog.id"
+  },
+  {
+    "id": "5",
+    "nama": "Maya Anggraini",
+    "role": "Business Analyst",
+    "avatar": "MA",
+    "bio": "Menjembatani kebutuhan bisnis pelabuhan dengan solusi teknologi. Berpengalaman di audit logistik bersama beberapa operator BUMN maritim.",
+    "keahlian": ["Process Mapping", "Data Analysis", "B2B Sales"],
+    "kontak": "maya@shiplog.id"
+  },
+  {
+    "id": "6",
+    "nama": "Dimas Kurniawan",
+    "role": "UI/UX Designer",
+    "avatar": "DK",
+    "bio": "Merancang antarmuka ShipLog yang bersih dan efisien untuk kondisi kerja keras di lapangan — dari dermaga hingga kantor pusat.",
+    "keahlian": ["Figma", "Design System", "Prototyping"],
+    "kontak": "dimas@shiplog.id"
+  }
+]
